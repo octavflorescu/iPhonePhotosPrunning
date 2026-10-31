@@ -4,6 +4,17 @@ Removes **earlier** photos in a burst when the **next** photo in the **same cale
 
 Album folders on the phone look like `201805_a` → May **2018**. Photos are never compared across months.
 
+**Repository:** [github.com/octavflorescu/iPhonePhotosPrunning](https://github.com/octavflorescu/iPhonePhotosPrunning)
+
+---
+
+## Get the code
+
+```powershell
+git clone https://github.com/octavflorescu/iPhonePhotosPrunning.git
+cd iPhonePhotosPrunning
+```
+
 ---
 
 ## Requirements
